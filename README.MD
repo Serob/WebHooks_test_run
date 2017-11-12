@@ -4,7 +4,7 @@ This project shows the [WebHooks service](https://github.com/Serob/WebHooks) beh
 During the test run service used fakeRequest to make request to external URLs, and depending on it's returned result (fake response code) wrote data into MongoDB.
 
 ## Client request simulator
-[Apache Jmeter 3.1](http://jmeter.apache.org/) 
+[Apache Jmeter 3.1](http://jmeter.apache.org/) - Load testing tool for services analysing and performance measuring.
 
 ### P.S.
 *Simulator and the service were running on the same machine, which could cause performance reduction and affect service response time.*
